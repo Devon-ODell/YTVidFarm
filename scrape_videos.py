@@ -39,6 +39,6 @@ def scrapeVideos(username = "",
 
 
 if __name__ == "__main__":
-    scrapeVideos(username = "chewymemes_v3",
+    scrapeVideos(username = "youtubevidfarm",
                  password = "",
-                 output_folder = "./Memes_December_4")
+                 output_folder = "./Memes_November_27")
